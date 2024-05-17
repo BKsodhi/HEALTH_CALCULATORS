@@ -6,7 +6,6 @@ It is modified txt.
 BMI
 hii
 bye
-welcome
 
 hello
 >>>>>>> hey
