@@ -5,6 +5,7 @@ It is modified txt.
 =======
 BMI
 hii
+bye
 
 hello
 >>>>>>> hey
